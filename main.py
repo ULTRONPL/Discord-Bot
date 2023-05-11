@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = 'MTA4NjMxODgxOTk1NTQ2MjIxNw.G0PZwF.r-O1Kc8iCfm3rL0P99Zz7lVFnfByFKaAZHCYVQ'
+TOKEN = ''
 CHAT_HISTORY_FILE = 'chat_history.txt'
 
 intents = discord.Intents.all()
